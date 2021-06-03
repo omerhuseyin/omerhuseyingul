@@ -1,18 +1,14 @@
-<h1 align="center">Hi 👋, I'm Omer Huseyin GUL</h1>
+<h1 align="center">Welcome</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omerhuseyingul&label=Profile%20views&color=0e75b6&style=flat" alt="omerhuseyingul" /> </p>
 
-- 🔭 I’m currently working on **TEINN**
-
-- 🌱 I’m currently learning **C# .NET Framework, Dart, Flutter**
-
+- 🔭 I’m currently working on **qSoft Development**
 - 📫 How to reach me **omerhuseyingul@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/omerhuseyingul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="omerhuseyingul" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/omerhuseyingul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="omerhuseyingul" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/user:15302000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="user:15302000" height="30" width="40" /></a>
 <a href="https://instagram.com/omergul.cs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="omergul.cs" height="30" width="40" /></a>
 </p>
