@@ -26,8 +26,8 @@
 <br><p>Operating Systems</p>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
- ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
 </div>
+ ![snake gif](https://github.com/omerhuseyingul/omerhuseyingul/blob/output/github-contribution-grid-snake.gif)
 
 
  
