@@ -1,5 +1,13 @@
 <a href="https://github.com/omerhuseyingul"><img width="450px" align="center" src="https://github-readme-stats.vercel.app/api?username=omerhuseyingul&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&icon_color=f1c40f&hide_border=true" /></a>
 <a href="https://github.com/omerhuseyingul"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerhuseyingul&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=10" /></a>
+<div align='center' textalign='center'>
+
+<br><p>Contact via Discord.</p>
+
+<img src="https://discord.c99.nl/widget/theme-4/892785729153933313.png">
+
+</div>
+
 
 <div align='center' textalign='center'>
 <p>Social Media</p>
@@ -22,10 +30,7 @@
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
 </div>
 
-<div align='center' textalign='center'>
-<br><p>Contact via Discord.</p>
-<img src="https://discord.c99.nl/widget/theme-4/892785729153933313.png">
-</div>
+
 
 
  
