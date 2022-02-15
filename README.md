@@ -7,8 +7,7 @@
 <img src="https://discord.c99.nl/widget/theme-4/892785729153933313.png">
 
 </div>
-
-
+<br>
 <div align='center' textalign='center'>
 <p>Social Media</p>
 <a href="https://www.instagram.com/omergul.cs/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
