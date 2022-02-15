@@ -4,7 +4,7 @@
 
 <br><p>Contact via Discord.</p>
 
-<img src="https://discord.c99.nl/widget/theme-4/852923308877545503.png"><script>
+<img src="https://discord.c99.nl/widget/theme-4/852923308877545503.png">
 
 
 </div>
