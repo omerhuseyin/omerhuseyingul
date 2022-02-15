@@ -25,7 +25,7 @@
 <div align='center' textalign='center'>
 <br><p>Operating Systems</p>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
+<img src="https://discord.c99.nl/widget/theme-4/892785729153933313.png">
 </div>
 
 
